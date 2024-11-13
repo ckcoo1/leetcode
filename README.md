@@ -24,3 +24,10 @@
 ##### 2024.11.10
 
 * [(简单)两数之和](https://leetcode.cn/problems/two-sum/?envType=study-plan-v2&envId=top-100-liked)
+* [(中等)二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/?envType=study-plan-v2&envId=top-100-liked)
+* [(中等)全排列](https://leetcode.cn/problems/permutations/?envType=study-plan-v2&envId=top-100-liked)
+
+**2.24.11.13**
+
+* [(中等)合并区间](https://leetcode.cn/problems/merge-intervals/submissions/580214505/?envType=study-plan-v2&envId=top-100-liked)
+* [(中等)子集](https://leetcode.cn/problems/subsets/description/?envType=study-plan-v2&envId=top-100-liked)
